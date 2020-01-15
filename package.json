@@ -1,0 +1,14 @@
+{
+  "name": "lecture",
+  "version": "1.0.0",
+  "description": "This is lecture to study for typesciprt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hantaeil",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^3.7.4"
+  }
+}
